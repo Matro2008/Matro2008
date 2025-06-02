@@ -1,12 +1,6 @@
-## Hi there 👋
-
-<!--
-**Matro2008/Matro2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Matrone Gabriele
 
 💻 Gabriele | Junior Developer & Computer Science Student
-
 👋 Hi! I'm Gabriele, an IT student at ITIS Majorana with a passion for coding and technology.  
 📚 Currently deepening my skills in software development, algorithms, and web technologies.  
 💻 Languages: `C#`, `HTML`, `CSS`, `JavaScript`
