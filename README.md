@@ -1,54 +1,37 @@
-- ## 🙋‍♂️ Hi, I'm Matrone Gabriele, ITIS Majorana, Software developer, especially focused on C#, HTML, CSS, JavaScript
+## 🙋‍♂️ Gabriele Matrone | ITIS Majorana  
+Junior Software Developer passionate about C#, web technologies, and creating efficient solutions.
 
-- 🚀 Passionate C# Developer | Exploring Code, Building Solutions
+- 🚀 Enthusiastic about C# development and constantly exploring new programming challenges  
+- 💡 Dedicated learner, always eager to improve my skills and grow as a developer  
+- 🤝 Team player who enjoys collaborating and supporting others in their coding journey  
+- 🌟 Focused on building practical applications and solving real-world problems  
 
-- 💡 Junior Developer Focused on C# | Always Learning, Always Creating
+# 👋 About Me
 
-- 🔥 Coding Enthusiast & C# Developer | Check Out My Projects!
+- Currently studying Computer Science at ITIS Majorana  
+- Deeply interested in programming, technology, and software engineering principles  
+- Always ready to help peers and contribute positively to any team environment  
 
-- 👨‍💻 C# Developer in Training | Driven by Curiosity and Innovation
+## 💻 Technical Skills
 
-- 🌟 Aspiring Software Developer | Specializing in C# and Problem Solving
+- Programming Languages: C#, HTML, CSS, JavaScript  
+- Areas of Interest: Web Development, Desktop Applications, UI/UX Design  
 
-- 
+## 🎯 Career Goals
 
-- # **👋 Hi! I'm Gabriele**
+- To become a skilled professional developer, turning my passion for coding into a fulfilling career  
+- To contribute to meaningful projects and continuously evolve in the tech industry  
 
-- Computer Science student at ITIS Majorana
+## 📚 Learning & Projects
 
-- Passionate about coding and technology, always happy to help others.
+- Actively enhancing my knowledge in software architecture, algorithms, and modern web frameworks  
+- Working on personal and collaborative projects to apply what I learn practically  
 
-- ## **💻 Technical Skills**
+## 🍝 & 🏋️‍♂️ Life Outside Coding
 
-- Languages: C#, HTML, CSS, JavaScript
+- I enjoy cooking creative recipes and challenging myself in the kitchen  
+- When I’m not coding, I like staying active at the gym and exploring new hobbies  
 
-- Technologies: Web Development, Desktop Applications, UI Design
+## 🌐 Follow My Journey
 
-- ## **🚀 Career Goals**
-
-- To become a professional developer and turn my passion for coding into a career.
-
-- ## **🤝 Teamwork & Support**
-
-- I enjoy working in a team and supporting others, creating a collaborative learning environment.
-
-- ## **🎯 Projects & Learning**
-
-- I'm currently deepening my skills in:
-
-- Software development
-
-- Algorithms
-
-- Web technologies
-
-- ## **🍝🏋️‍♂️ Free Time**
-
-- I love cooking and challenging myself with new recipes.
-
-- When I’m not coding, I’m probably at the gym or learning something new.
-
-- ## **🌐 Follow Me**
-
-- Check out my progress and the projects I’m working on here on GitHub!
-
+- Explore my GitHub to see my latest projects and progress!
