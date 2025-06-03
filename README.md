@@ -1,4 +1,4 @@
-## 🙋‍♂️ Gabriele Matrone | ITIS Majorana Junior Software Developer passionate about C#, web technologies, and creating efficient solutions.
+## 🙋‍♂️ Gabriele Matrone | ITIS Majorana Junior Software Developer passionate about C#,HTML,CSS,JavaScript, web technologies, and creating efficient solutions.
 
 
 
