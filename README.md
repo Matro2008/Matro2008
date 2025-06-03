@@ -1,5 +1,5 @@
 ##  🙋‍♂️ Hi, i'm Matrone Gabriele
-#  💻 Passionate about computer science | Always happy to help others 🤝
+##  💻 Passionate about computer science | Always happy to help others 🤝
 
 💻 Gabriele | Junior Developer & Computer Science Student
 
