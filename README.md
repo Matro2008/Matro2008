@@ -1,6 +1,6 @@
 ##  🙋‍♂️ Hi, i'm Matrone Gabriele,Itis Majorana,Software developer, especially focused on C#,HTML,CSS,JavaScript
 
-*🚀 Passionate C# Developer | Exploring Code, Building Solutions
+🚀 Passionate C# Developer | Exploring Code, Building Solutions
 
 💡 Junior Developer Focused on C# | Always Learning, Always Creating
 
@@ -8,7 +8,7 @@
 
 👨‍💻 C# Developer in Training | Driven by Curiosity and Innovation
 
-🌟 Aspiring Software Developer | Specializing in C# and Problem Solving*
+🌟 Aspiring Software Developer | Specializing in C# and Problem Solving
 
 
 
