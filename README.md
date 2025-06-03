@@ -1,22 +1,39 @@
 ##  🙋‍♂️ Hi, i'm Matrone Gabriele
-##  💻 Passionate about computer science | Always happy to help others 🤝
 
-💻 Gabriele | Junior Developer & Computer Science Student
 
-👋 Hi! I'm Gabriele, an IT student at ITIS Majorana with a passion for coding and technology.  
+👋 Hi! I'm Gabriele
+Computer Science student at ITIS Majorana
+Passionate about coding and technology, always happy to help others.
 
-📚 Currently deepening my skills in software development, algorithms, and web technologies. 
+💻 Technical Skills
+Languages: C#, HTML, CSS, JavaScript
 
-💻 Languages: C#, HTML, CSS, JavaScript
+Technologies: Web Development, Desktop Applications, UI Design
 
-🌐 Interests: Web Development, Desktop Applications, UI Design
+🚀 Career Goals
+To become a professional developer and turn my passion for coding into a career.
 
-🤝 I'm a friendly and helpful person who enjoys working in a team and supporting others. 
+🤝 Teamwork & Support
+I enjoy working in a team and supporting others, creating a collaborative learning environment.
 
-🎯My goal is to become a professional developer and turn my passion for coding into a career. 
+🎯 Projects & Learning
+I'm currently deepening my skills in:
 
-🍝 In my free time, I love cooking and challenging myself with new ideas.
+Software development
 
-🏋️‍♂️ When I’m not coding, you’ll probably find me at the gym or learning something new.
+Algorithms
 
-🌐 Follow me to see my progress and the projects I’m working on!
+Web technologies
+
+🍝🏋️‍♂️ Free Time
+I love cooking and challenging myself with new recipes.
+When I’m not coding, I’m probably at the gym or learning something new.
+
+🌐 Follow Me
+Check out my progress and the projects I’m working on here on GitHub!
+
+Se vuoi anche una versione più compatta per la sezione “bio” del profilo, posso aiutarti a crearne una!
+
+
+
+
