@@ -6,7 +6,7 @@ Matrone Gabriele
 
 📚 Currently deepening my skills in software development, algorithms, and web technologies. 
 
-💻 Languages: `C#`, `HTML`, `CSS`, `JavaScript`
+💻 Languages: C#, HTML, CSS, JavaScript
 
 🌐 Interests: Web Development, Desktop Applications, UI Design
 
