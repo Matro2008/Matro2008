@@ -10,7 +10,7 @@
 # 👋 About Me
 
 - Currently studying Computer Science at ITIS Majorana  
-- Deeply interested in programming, technology, and software engineering principles  
+- Deeply interested in programming, technology 
 - Always ready to help peers and contribute positively to any team environment  
 
 ## 💻 Technical Skills
