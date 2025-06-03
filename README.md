@@ -17,3 +17,5 @@ Matrone Gabriele
 🍝 In my free time, I love cooking and challenging myself with new ideas.
 
 🏋️‍♂️ When I’m not coding, you’ll probably find me at the gym or learning something new.
+
+🌐 Follow me to see my progress and the projects I’m working on!
