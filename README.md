@@ -1,4 +1,4 @@
-##  🙋‍♂️ Hi, i'm Matrone Gabriele,mItis Majorana,Software developer, especially focused on C#,HTML,CSS,JavaScript
+##  🙋‍♂️ Hi, i'm Matrone Gabriele,Itis Majorana,Software developer, especially focused on C#,HTML,CSS,JavaScript
 
 
 
