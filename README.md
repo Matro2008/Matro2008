@@ -16,7 +16,7 @@
 ## 💻 Technical Skills
 
 - Programming Languages: C#, HTML, CSS, JavaScript  
-- Areas of Interest: Web Development, Desktop Applications, UI/UX Design  
+- Areas of Interest: Web Development, Desktop Applications 
 
 ## 🎯 Career Goals
 
