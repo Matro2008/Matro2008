@@ -7,7 +7,7 @@
 - 🤝 Team player who enjoys collaborating and supporting others in their coding journey  
 - 🌟 Focused on building practical applications and solving real-world problems  
 
-# 👋 About Me
+## 👋 About Me
 
 - Currently studying Computer Science at ITIS Majorana  
 - Deeply interested in programming, technology 
